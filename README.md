@@ -21,6 +21,10 @@ Uma visão geral sobre Python e suas aplicações.
 
 ## Variáveis
 Como declarar e usar variáveis em Python.
+1.  Enviar código para o repositório do GitHub
+```
+git push -u origin main 
+```
 
 ## Tipos de Dados
 Descrição dos diferentes tipos de dados disponíveis em Python.
