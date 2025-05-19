@@ -46,3 +46,4 @@ Como tratar exceções e erros em Python.
 ## Projetos Práticos
 Exemplos de projetos práticos para aplicar os conhecimentos adquiridos.
 [⬆ Voltar ao Índice](#indice)
+[⬆ Voltar ao Índice](#indice)
