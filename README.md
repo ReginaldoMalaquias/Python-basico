@@ -45,5 +45,5 @@ Como tratar exceções e erros em Python.
 
 ## Projetos Práticos
 Exemplos de projetos práticos para aplicar os conhecimentos adquiridos.
-[⬆ Voltar ao Índice]([#indice](https://github.com/ReginaldoMalaquias/Python-basico/blob/main/README.md#%C3%ADndice))
+[⬆ Voltar ao Índice][#indice](https://github.com/ReginaldoMalaquias/Python-basico/blob/main/README.md#%C3%ADndice)
 
