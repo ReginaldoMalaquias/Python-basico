@@ -114,8 +114,8 @@ variavel = 100      # variavel é do tipo int
 print(type(variavel))
 variavel = "Agora sou uma string"  # variavel agora é do tipo str
 print(type(variavel))
-Entender os tipos de dados é fundamental para programar em Python, pois eles definem como os dados são armazenados e quais operações você pode realizar com eles.
-
+Entender os tipos de dados é fundamental para programar em Python, pois eles definem como os dados são armazenados e quais operações você pode realizar com eles.  
+[⬆](https://github.com/ReginaldoMalaquias/Python-basico/blob/main/README.md#%C3%ADndice)  
 ## Operadores
 Explicação dos operadores aritméticos, lógicos, de comparação, etc.
 
