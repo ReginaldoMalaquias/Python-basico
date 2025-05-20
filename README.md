@@ -27,14 +27,9 @@ git push -u origin main
 ```
 
 ## Tipos de Dados
-Descrição dos diferentes tipos de dados disponíveis em Python.
-
-Em Python, os tipos de dados são usados para classificar ou categorizar itens de dados e representam o tipo de valor que determina quais operações podem ser realizadas nesses dados. Python possui vários tipos de dados embutidos. Vamos explorar os mais comuns:
-
 Tipos de Dados Principais em Python:
 
 Tipos Numéricos:
-
 int (inteiro): Representa números inteiros, tanto positivos quanto negativos, sem casas decimais.  
 A precisão é arbitrária, o que significa que podem ser tão grandes quanto a memória do seu computador permitir.
 
