@@ -26,7 +26,8 @@ Como declarar e usar variáveis em Python.
 git push -u origin main 
 ```
 
-## Tipos de Dados   [⬆](https://github.com/ReginaldoMalaquias/Python-basico/blob/main/README.md#%C3%ADndice)
+## Tipos de Dados   
+[⬆](https://github.com/ReginaldoMalaquias/Python-basico/blob/main/README.md#%C3%ADndice)
 Tipos de Dados Principais em Python:
 
 Tipos Numéricos:
