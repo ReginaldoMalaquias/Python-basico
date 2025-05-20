@@ -35,7 +35,8 @@ Tipos de Dados Principais em Python:
 
 Tipos Numéricos:
 
-int (inteiro): Representa números inteiros, tanto positivos quanto negativos, sem casas decimais. 
+int (inteiro): Representa números inteiros, tanto positivos quanto negativos, sem casas decimais.  
+ 
 A precisão é arbitrária, o que significa que podem ser tão grandes quanto a memória do seu computador permitir.
 
 ```
